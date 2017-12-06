@@ -1,0 +1,26 @@
+body {
+  background-color: rgb(43, 76, 139);
+  color: white;
+}
+
+.container {
+  padding: 50px 0 50px 0;  
+}
+
+h4 {
+  padding-bottom: 15px;
+}
+
+.col.s4 {
+  width: 450px;
+  height: 200px;
+  border: 1px solid white;
+}
+
+.front {
+  padding: 75px 0 0 30px;
+}
+
+.back {
+  padding: 75px 0 0 30px;
+}
